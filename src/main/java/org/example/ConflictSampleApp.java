@@ -8,6 +8,6 @@ public class ConflictSampleApp {
         System.out.println("Not the changes we are looking for!");
         System.out.println("Not the changes we are looking for!");
         System.out.println("Not the changes we are looking for!");
-        System.out.println("Not the changes we are looking for!");
+        System.out.println("I disagree, these are the changes we want!");
     }
 }
